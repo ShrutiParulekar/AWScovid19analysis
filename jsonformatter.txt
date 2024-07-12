@@ -1,0 +1,4 @@
+Parse error on line 1:
+...112.06615689999995}{"OBJECTID": 2, "HOS
+----------------------^
+Expecting 'EOF', '}', ',', ']', got '{'
