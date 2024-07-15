@@ -1,6 +1,6 @@
 # Project Overview
 
-This project focuses on developing a comprehensive understanding of cloud computing and its applications, specifically in the context of data management and analysis. The project involves the practical implementation of various cloud computing tools and techniques, culminating in a single integrated project with findings and insights from the visualizations created.
+This project focuses on developing a scalable data engineering pipeline using AWS to manage and analyze COVID-19 data from various sources. Data is ingested via S3, processed using Python scripts for transformation, and loaded into Amazon Redshift for storage. Tools like AWS Glue for ETL and Amazon QuickSight for visualization are employed, with Python scripts run locally to connect and interact with AWS services. This project demonstrates practical application of cloud computing, data transformation, and visualization to support public health research and response. Also, creating a real-time dashboard using Amazon Quicksight. 
 
 ## Data Sources
 
